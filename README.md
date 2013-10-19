@@ -1,4 +1,4 @@
-
+<pre>
 //////////////////////////////////////////////////////////////////////////////////////////////
 
   _    _          _____  _______     __  ______ _      ______ _____ _______ _____  _____ _____ 
@@ -15,7 +15,7 @@
                                                                                          
                                                                                                
 ///////////////////////////////////////////////////////////////////////////////////////////////
-
+</pre>
 These fine files created by: Travis Duane
 Website: Happyelectriccircuits.com
 
@@ -27,3 +27,4 @@ License: Creative Commons NC SA 3.0
 License URL: http://creativecommons.org/licenses/by-nc-sa/3.0/au/deed.en_GB
 ________________________________________________________________________________________________
  
+This is a very simple design used quite often, its allows you to use 3.3v sensors on a 5v line or vise versa!
